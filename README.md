@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Bull Metal Internal Tools
+
+This project manages the front and backend for Bull Metal's internal tools for inventory management, job management, scheduling, and maintenance. Features will be released via a continuous integration approach.
+
+# Auth
+
+Currently a
+
+# Stack
+
+This version of BMP Internal Tools uses react and google firestore, though a postgreSQL db also exists in previous drafts.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
